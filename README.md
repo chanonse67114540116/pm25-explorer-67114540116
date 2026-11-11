@@ -8,3 +8,7 @@ uv add pandas duckdb  plotly streamlit
 
 ## ผู้จัดทำ
 ชานนท์ สายแจ้ 67114540116
+
+
+## หมายเหตุ
+อัปเดตเพื่อทดสอบการสร้าง Pull Request
